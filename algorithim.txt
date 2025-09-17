@@ -1,0 +1,19 @@
+Hospital Supply Conversion Problem
+
+Scenario: St. Mary's Hospital receives medical equipment shipments from both domestic and international suppliers. The shipping department needs to calculate total weights for inventory management.
+
+Solving it for: My Dad(parent)
+
+Sourced link: Wikipedia
+
+Problem: The hospital received the following deliveries today:
+
+3 boxes of surgical instruments, each weighing 15 kilograms
+2 boxes of medical devices, each weighing 22 pounds
+1 box of laboratory equipment weighing 8.5 kilograms
+
+
+Questions:
+
+What is the total weight of all deliveries in kilograms?
+What is the total weight of all deliveries in pounds?
